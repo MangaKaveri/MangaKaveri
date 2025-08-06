@@ -45,4 +45,4 @@ Data Visualization : Tensorflow, Seaborn, Scikit-learn, Numpy, Pandas,Matplotlib
  
 Databases : mysql,Mongodb
 
-Software and Tools: Visual studio code, Git, jupyter, Spyder
+Software and Tools: Visual studio code, Git, jupyter, Spyder,Powerbi,Tableau
