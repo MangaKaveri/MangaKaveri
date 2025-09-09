@@ -39,7 +39,7 @@ As a Student, I always enthusiastic to learn new things and i enjoy using my obs
 
 
 ## 🛠 Skills
-Programming Languages : Java,Python,C,CSS,Html,Javascript
+Programming Languages : Java,Python,C,CSS,Html,Javascript,Data Structures & Alogorithms
 
 Data Visualization : Tensorflow, Seaborn, Scikit-learn, Numpy, Pandas,Matplotlib
  
