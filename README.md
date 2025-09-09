@@ -33,7 +33,7 @@ As a Student, I always enthusiastic to learn new things and i enjoy using my obs
 
 💬 Ask me about anything , I am happy to Help
 
-📫 How to reach me mangakaveri2004@gmail.com
+📫 How to reach me mangakaveri05@gmail.com
 
 ⚡️ Fun fact : I think i am Funny
 
