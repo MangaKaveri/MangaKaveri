@@ -23,9 +23,13 @@
 💡 Passionate about **AI, Data Analytics, and Problem Solving**  
 🌱 Currently exploring **Deep Learning & ML models**  
 📚 Love **programming, reading, writing, and public speaking**  
-🤝 **Member** at Muskurahat Foundation (NGO)  
-🎓 **Internshala Student Partner**  
-🏆 Active participant in hackathons & impactful projects  
+
+---
+
+## 🌟 Experience & Activities
+- 🤝 **Member** at Muskurahat Foundation (NGO)  
+- 🎓 **Internshala Student Partner**  
+- 🏆 Active participant in hackathons & impactful projects  
 
 ---
 
@@ -113,9 +117,19 @@ mindmap
     🔧 IoT & Hardware
       🤖 Arduino
       📡 Sensor Integration
-    📊 GitHub Stats
-      📌 Contributions & Repos
-      🌟 Languages Used
-    ✨ Fun Fact
-      ⚡ I think I am funny 😄
+---
 
+## 📊 GitHub Stats
+![Kaveri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangaKaveri&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MangaKaveri&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun Fact
+⚡ *"I think I am funny 😄"*  
+
+---
+
+<div align="center">
+  <sub>⭐ If you like my profile, follow me here on GitHub! ⭐</sub>
+</div>
