@@ -35,8 +35,7 @@
 💡 Passionate about **AI, Data Analytics, and Problem Solving**  
 🌱 Currently exploring **Deep Learning & ML models**  
 📚 Love **programming, reading, writing, and public speaking**  
-🤝 **Member** at Muskurahat Foundation (NGO)  
-🎓 **Internshala Student Partner**  
+🤝 Member at Muskurahat Foundation (NGO)   
 🏆 Active participant in hackathons & impactful projects                                                                                                                     
 📫 How to reach me: <a href="mailto:mangakaveri05@gmail.com">mangakaveri05@gmail.com</a>                                                                                     
 😄 Pronouns: She/Her                                                                                                                                                         
