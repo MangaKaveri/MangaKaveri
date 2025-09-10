@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kaveri+Manga)](https://git.io/typing-svg)
 
 
 
@@ -9,6 +8,7 @@
 
 
 
+m [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There 👋;I'm+Kaveri+Manga](https://git.io/typing-svg)
 # Hi, I'm Kaveri! 👋
 
 
