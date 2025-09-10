@@ -8,10 +8,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=35&pause=1000&color=2CB3F7&center=true&vCenter=true&width=600&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Kaveri+Manga!;Aspiring+Data+Scientist+%F0%9F%8C%9F;Tech+Explorer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </h1>
+<h3 align="center">Computer Science & Engineering(Data Science)student focused on building innovative tech solutions.</h3>
+<h3 align="center">🎨 Creative Soul 👨‍💻 Logical Mind by work</h3>
+
 
 ---
 
-## 🔗 Links
+## 🌐 Connect & Collaborate
 [![portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/MangaKaveri)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangakaveri)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MangaKaveri)
@@ -25,7 +28,10 @@
 📚 Love **programming, reading, writing, and public speaking**  
 🤝 **Member** at Muskurahat Foundation (NGO)  
 🎓 **Internshala Student Partner**  
-🏆 Active participant in hackathons & impactful projects  
+🏆 Active participant in hackathons & impactful projects                                                                                                                     
+📫 How to reach me: <a href="mailto:mangakaveri05@gmail.com">mangakaveri05@gmail.com</a>
+😄 Pronouns: She/Her
+🤔 I'm looking for help with open-source contributions
 
 ---
 
@@ -122,11 +128,12 @@ mindmap
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangaKaveri&layout=compact&theme=radical" height="150"/>
 </div>
 
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/api?username=MangaKaveri&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph">
+
 ## ✨ Fun Fact
 ⚡ *"I think I am funny 😄"*  
 
 ---
 
-<div align="center">
-  <sub>⭐ If you like my profile, follow me here on GitHub! ⭐</sub>
-</div>
+<div align="center"> Thank you for visiting! 😊 Feel free to connect.🌐<br> <sub>⭐ Follow me on GitHub if you found it interesting! ⭐</sub> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> </div> ```
