@@ -7,7 +7,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=32&pause=1000&center=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Kaveri+Manga)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=32&pause=1000&center=true&vCenter=true&width=435&lines=++++++++++++++++++++++++Hi+There+%F0%9F%91%8B;+++++++++++++++++++++I'm+Kaveri+Manga)](https://git.io/typing-svg)
 # Hi, I'm Kaveri! 👋
 
 
