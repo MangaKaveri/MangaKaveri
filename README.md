@@ -23,13 +23,9 @@
 💡 Passionate about **AI, Data Analytics, and Problem Solving**  
 🌱 Currently exploring **Deep Learning & ML models**  
 📚 Love **programming, reading, writing, and public speaking**  
-
----
-
-## 🌟 Experience & Activities
-- 🤝 **Member** at Muskurahat Foundation (NGO)  
-- 🎓 **Internshala Student Partner**  
-- 🏆 Active participant in hackathons & impactful projects  
+🤝 **Member** at Muskurahat Foundation (NGO)  
+🎓 **Internshala Student Partner**  
+🏆 Active participant in hackathons & impactful projects  
 
 ---
 
@@ -39,6 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,7 +57,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Development & Tools:**  
-![DSA](https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -114,16 +111,16 @@ mindmap
     📱 Mobile Development
       🎨 Flutter & Dart
       🤖 Native Android
-    🔧 IoT & Hardware
-      🤖 Arduino
-      📡 Sensor Integration
+    
+```
 
 
 ## 📊 GitHub Stats
-![Kaveri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangaKaveri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MangaKaveri&layout=compact&theme=radical)
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MangaKaveri&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MangaKaveri&theme=radical&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangaKaveri&layout=compact&theme=radical" height="150"/>
+</div>
 
 ## ✨ Fun Fact
 ⚡ *"I think I am funny 😄"*  
