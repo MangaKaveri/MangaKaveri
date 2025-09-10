@@ -15,9 +15,18 @@
 ---
 
 ## 🌐 Connect & Collaborate
-[![portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/MangaKaveri)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangakaveri)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MangaKaveri)
+
+<div align="center">
+  <a href="https://linktr.ee/MangaKaveri">
+    <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mangakaveri">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/MangaKaveri">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
 ---
 
