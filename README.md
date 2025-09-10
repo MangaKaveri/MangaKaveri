@@ -9,7 +9,7 @@
   </a>
 </h1>
 <h3 align="center">Computer Science & Engineering(Data Science)student focused on building innovative tech solutions.</h3>
-<h3 align="center">🎨 Creative Soul 👨‍💻 Logical Mind by work</h3>
+<h3 align="center">💡 Innovating with code & 🎨creativity</h3>
 
 
 ---
