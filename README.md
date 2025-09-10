@@ -117,7 +117,7 @@ mindmap
     🔧 IoT & Hardware
       🤖 Arduino
       📡 Sensor Integration
----
+
 
 ## 📊 GitHub Stats
 ![Kaveri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangaKaveri&show_icons=true&theme=radical)
