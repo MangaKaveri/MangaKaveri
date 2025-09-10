@@ -23,13 +23,9 @@
 💡 Passionate about **AI, Data Analytics, and Problem Solving**  
 🌱 Currently exploring **Deep Learning & ML models**  
 📚 Love **programming, reading, writing, and public speaking**  
-
----
-
-## 🌟 Experience & Activities
-- 🤝 **Member** at Muskurahat Foundation (NGO)  
-- 🎓 **Internshala Student Partner**  
-- 🏆 Active participant in hackathons & impactful projects  
+🤝 **Member** at Muskurahat Foundation (NGO)  
+🎓 **Internshala Student Partner**  
+🏆 Active participant in hackathons & impactful projects  
 
 ---
 
@@ -43,12 +39,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Development & DSA:**  
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-02569B?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 **Data Science & Visualization:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -58,28 +48,74 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Kaveri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangaKaveri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MangaKaveri&layout=compact&theme=radical)
-
----
-
-## ✨ Fun Fact
-⚡ *"I think I am funny 😄"*  
+**Development & Tools:**  
+![DSA](https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-<div align="center">
-  <sub>⭐ If you like my profile, follow me here on GitHub! ⭐</sub>
-</div>
+## 🧠 **Core Competencies**
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#ffffffff',
+    'primaryTextColor': '#000000ff',
+    'primaryBorderColor': '#1d4ed8',
+    'lineColor': '#597fb4ff',
+    'secondaryColor': '#0e12e9ff',
+    'tertiaryColor': '#06b6d4',
+    'background': '#596d9cff',
+    'mainBkg': '#1e293b',
+    'secondBkg': '#4f71a1ff',
+    'tertiaryBkg': '#42597aff',
+    'cScale0': '#2563eb',
+    'cScale1': '#44b9efff',
+    'cScale2': '#06d470ff',
+    'cScale3': '#e8f260ff',
+    'cScale4': '#f552a3ff'
+  }
+}}%%
+
+mindmap
+  root((💻 Tech Skills))
+    🤖 AI/ML Engineering
+      🧠 Deep Learning
+        🔥 PyTorch
+        🌐 TensorFlow
+        👁️ Computer Vision
+      📊 Machine Learning
+        🔬 Scikit-learn
+        🚀 Model Deployment
+    📊 Data Visualization
+      📈 Power BI
+      📊 Tableau
+      📊 Excel
+      ☁️ Google Looker Studio
+    ⚙️ Development & DSA
+      📝 Data Structures & Algorithms
+      🐍 Python Flask
+      🔌 API Development
+      🖥️ Git & VS Code
+    📱 Mobile Development
+      🎨 Flutter & Dart
+      🤖 Native Android
+    🔧 IoT & Hardware
+      🤖 Arduino
+      📡 Sensor Integration
+    📊 GitHub Stats
+      📌 Contributions & Repos
+      🌟 Languages Used
+    ✨ Fun Fact
+      ⚡ I think I am funny 😄
+
