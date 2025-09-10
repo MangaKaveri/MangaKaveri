@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=35&pause=1000&color=2CB3F7&center=true&vCenter=true&width=600&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Kaveri+Manga!;Aspiring+Data+Scientist+%F0%9F%8C%9F;Tech+Explorer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=35&pause=1000&color=2CB3F7&center=true&vCenter=true&width=600&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Kaveri+Manga!;Aspiring+Data+Analyst+%F0%9F%8C%9F;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 <h3 align="center">Computer Science & Engineering(Data Science)student focused on building innovative tech solutions.</h3>
@@ -29,8 +29,8 @@
 🤝 **Member** at Muskurahat Foundation (NGO)  
 🎓 **Internshala Student Partner**  
 🏆 Active participant in hackathons & impactful projects                                                                                                                     
-📫 How to reach me: <a href="mailto:mangakaveri05@gmail.com">mangakaveri05@gmail.com</a>
-😄 Pronouns: She/Her
+📫 How to reach me: <a href="mailto:mangakaveri05@gmail.com">mangakaveri05@gmail.com</a>                                                                                     
+😄 Pronouns: She/Her                                                                                                                                                         
 🤔 I'm looking for help with open-source contributions
 
 ---
