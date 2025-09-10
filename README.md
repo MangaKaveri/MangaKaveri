@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=35&pause=1000&color=2CB3F7&center=true&vCenter=true&width=600&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Kaveri+Manga!;Aspiring+Data+Analyst+%F0%9F%8C%9F;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
-<h3 align="center">Computer Science & Engineering(Data Science)student focused on building innovative tech solutions.</h3>
+<h3 align="center">Computer Science & Engineering (Data Science) Student focused on building innovative tech solutions.</h3>
 <h3 align="center">💡 Innovating with code & 🎨creativity</h3>
 
 
