@@ -80,65 +80,85 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
 ## 🧠 **Core Competencies**
-
 ```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#ffffffff',
-    'primaryTextColor': '#000000ff',
-    'primaryBorderColor': '#1d4ed8',
-    'lineColor': '#597fb4ff',
-    'secondaryColor': '#0e12e9ff',
-    'tertiaryColor': '#06b6d4',
-    'background': '#596d9cff',
-    'mainBkg': '#1e293b',
-    'secondBkg': '#4f71a1ff',
-    'tertiaryBkg': '#42597aff',
-    'cScale0': '#2563eb',
-    'cScale1': '#44b9efff',
-    'cScale2': '#06d470ff',
-    'cScale3': '#e8f260ff',
-    'cScale4': '#f552a3ff'
-  }
-}}%%
+flowchart TD
+  %% Root
+  A[💻 Tech Skills]
 
-mindmap
-  root((💻 Tech Skills))
-    🤖 AI/ML Engineering
-      🧠 Deep Learning
-        🔥 PyTorch
-        🌐 TensorFlow
-        👁️ Computer Vision
-      📊 Machine Learning
-        🔬 Scikit-learn
-        🚀 Model Deployment
-    📊 Data Visualization
-      📈 Power BI
-      📊 Tableau
-      📊 Excel
-      ☁️ Google Looker Studio
-    ⚙️ Development & DSA
-      📝 Data Structures & Algorithms
-      🐍 Python Flask
-      🔌 API Development
-      🖥️ Git & VS Code
-    📱 Mobile Development
-      🎨 Flutter & Dart
-      🤖 Native Android
+  %% AI/ML Engineering
+  subgraph B[🤖 AI/ML Engineering]
+    C[🧠 Deep Learning]
+    C --> D[🔥 PyTorch]
+    C --> E[🌐 TensorFlow]
+    C --> F[👁️ Computer Vision]
 
-    
+    G[📊 Machine Learning]
+    G --> H[🔬 Scikit-learn]
+    G --> I[🚀 Model Deployment]
+  end
+  A --> B
+
+  %% Data Visualization
+  subgraph J[📊 Data Visualization]
+    K[📈 Power BI]
+    L[📊 Tableau]
+    M[📊 Excel]
+    N[☁️ Google Looker Studio]
+  end
+  A --> J
+
+  %% Development & DSA
+  subgraph O[⚙️ Development & DSA]
+    P[📝 Data Structures & Algorithms]
+    Q[🐍 Python Flask]
+    R[🔌 API Development]
+    S[🖥️ Git & VS Code]
+  end
+  A --> O
+
+  %% Mobile Development
+  subgraph T[📱 Mobile Development]
+    U[🎨 Flutter & Dart]
+    V[🤖 Native Android]
+  end
+  A --> T
+
+  %% --- COLORS ---
+  style A fill:#1e293b,stroke:#ffffff,color:#ffffff
+
+  style B fill:#2563eb,stroke:#1e40af,color:#ffffff
+  style J fill:#16a34a,stroke:#065f46,color:#ffffff
+  style O fill:#f97316,stroke:#c2410c,color:#ffffff
+  style T fill:#9333ea,stroke:#581c87,color:#ffffff
+
+
+
 ```
-
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MangaKaveri&show_icons=true&theme=radical" height="150"/>
+  
+  [![MangaKaveri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MangaKaveri&theme=radical)](https://github.com/MangaKaveri)
+
+
+  </div>
+
+  ## 📊 GitHub Stats  
+
+<div align="center">
+  
+  <!-- GitHub Stats + Streak Side by Side -->
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MangaKaveri&theme=radical&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangaKaveri&layout=compact&theme=radical" height="150"/>
+  
+ 
+  
 </div>
+
+
+
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/api?username=MangaKaveri&theme=radical&column=8&margin-w=10&no-bg=false&row=1" height="100" alt="trophy graph">
