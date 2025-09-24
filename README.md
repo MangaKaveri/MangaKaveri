@@ -124,6 +124,14 @@ flowchart TD
   end
   A --> T
 
+  %% Web Development (NEW)
+  subgraph W[🌐 Web Development]
+    X[📄 HTML]
+    Y[🎨 CSS]
+    Z[⚡ JavaScript]
+  end
+  A --> W
+
   %% --- COLORS ---
   style A fill:#1e293b,stroke:#ffffff,color:#ffffff
 
@@ -131,8 +139,7 @@ flowchart TD
   style J fill:#16a34a,stroke:#065f46,color:#ffffff
   style O fill:#f97316,stroke:#c2410c,color:#ffffff
   style T fill:#9333ea,stroke:#581c87,color:#ffffff
-
-
+  style W fill:#06b6d4,stroke:#0369a1,color:#ffffff
 
 ```
 ---
