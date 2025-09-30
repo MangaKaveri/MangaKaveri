@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://linktr.ee/MangaKaveri">
-     <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Linktree"/>
+     <img src="https://img.shields.io/badge/My_Linktree-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Linktree"/>
   </a>
 </div>
 
