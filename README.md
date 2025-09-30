@@ -17,7 +17,7 @@
 ## 🌐 Connect & Collaborate
 
 <div align="center">
-  <a href="https://linktr.ee/MangaKaveri">
+  <a href="https://kaverimanga.lovable.app/">
     <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mangakaveri">
