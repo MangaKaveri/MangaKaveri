@@ -117,14 +117,7 @@ flowchart TD
   end
   A --> O
 
-  %% Mobile Development
-  subgraph T[📱 Mobile Development]
-    U[🎨 Flutter & Dart]
-    V[🤖 Native Android]
-  end
-  A --> T
-
-  %% Web Development (NEW)
+  %% Web Development (UPDATED)
   subgraph W[🌐 Web Development]
     X[📄 HTML]
     Y[🎨 CSS]
