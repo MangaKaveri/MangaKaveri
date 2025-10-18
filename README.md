@@ -122,8 +122,7 @@ flowchart TD
     X[📄 HTML]
     Y[🎨 CSS]
     Z[⚡ JavaScript]
-    AA[⚛️ React]
-    AB[🟢 Node.js]
+    
   end
   A --> W
 
